@@ -1,5 +1,7 @@
 # standard-readme-cli
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/RichardLitt/standard-readme-cli.svg)](https://greenkeeper.io/)
+
 > A CLI tool for linting READMEs according to standard-readme
 
 This is a **Work in Progress**. See [#4](https://github.com/RichardLitt/standard-readme-cli/issues/4).
